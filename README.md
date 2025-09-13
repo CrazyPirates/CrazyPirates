@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrazyPirates
-- 👀 I am a brazilian programmer that loves everything about technology and programming! But i have a deeper passion for data analysis! 
+- 👀 I am a brazilian programmer that loves everything about technology and programming! But i have a deeper passion for data science! 
 
 <!---
 CrazyPirates/CrazyPirates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
